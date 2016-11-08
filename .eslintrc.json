@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2016,
+    "impliedStrict": true
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true,
+    "applescript": true
+  },
+  "rules": {
+    "no-cond-assign": "error"
+  }
+}
